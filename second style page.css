@@ -1,4 +1,4 @@
-/ * second style page */
+/* second style page */
 .hero {
     background-position: bottom;
     height: auto;
@@ -12,9 +12,9 @@
     font-size: 42px;
     font-weight: 400;
     font-style: italic;
-    color: #fcel38;
+    color: yellow;
     display: inline-block;
-    border-bottom: 4px solid #fce138;
+    border-bottom: 4px solid yellow;
 
 }
 
@@ -43,10 +43,10 @@
 
 }
 
-.seondary-content li{
+.seondary-content li {
     color:#39a6b2
     margin: 10px 0;
 
 }
 
-/ * end */
+/* end*/
