@@ -10,7 +10,6 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://jlhickey.github.io/my-awesome-project/run buddy
-
+https://lernantino.github.io/run-buddy/
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Joanne Hickey
