@@ -19,6 +19,7 @@ header {
   padding: 20px 35px;
   background-color: var(--tertiary-color);
   display: flex;
+  align items: space-between;
   justify-content: space-between;
   flex-wrap: wrap;
   position: sticky;
