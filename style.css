@@ -2,7 +2,7 @@
 *{
   box-sizing: 0;
   margin:0;
-  padding: 0
+  padding: 0;
 }
 
 body {
@@ -24,13 +24,13 @@ header {
   header h1 {
     font-weight: bold;
     margin: 0;
-    font-size:36 px;
-    color: #fce138
+    font-size:36px;
+    color: #fce138;
   }
 
   header a {
     text-decoration: none;
-    color: #fce138
+    color: #fce138;
   }
    
   header nav {
@@ -45,9 +45,9 @@ header {
      align-items: none;
   }
   header nav ul li a {
-    padding:10 px 15 px;
+    padding:10px 15px;
     font-weight: lighter;
-    font-size:1.55 vw;
+    font-size: 1.5;
 
   }
 
@@ -57,11 +57,11 @@ header {
   
  footer{
    background: #fce138;
-   padding: 40 px35 px;
+   padding: 40p 35px;
    display: flex;
    justify-content: space-between;
    flex-wrap: wrap;
-   width: 100%
+   width: 100%;
  }
   footer h2 {
     color: #024e76;
@@ -92,7 +92,7 @@ header {
   /*hero style start*/
 
  .hero {
-   background-image: url("https://github/my-awesome-project/photos/hero-bg.jpeg";
+   background-image: url("https://github/my-awesome-project/images/hero-bg.jpeg";
    background-size: cover;
    background-position: center;
    display: flex;
@@ -129,21 +129,21 @@ hero-form {
 }
 
 .hero-form h3 {
-  font-size: 24 ppx;
+  font-size: 24px;
   margin: 0;
 
 }
 
 hero-form p {
-  margin: 5 px 0 15 px 0;
+  margin: 5px 0 15px 0;
 
 }
 
 .form-input {
   border: 1px solid #024e76;
   display: block;
-  padding: 7px 15 px;
-  font-size: 16 px;
+  padding: 7px 15px;
+  font-size: 16px;
   color: #024e76;
   width: 100%;
   margin-bottom: 15px;
@@ -159,7 +159,7 @@ hero-form p {
   color:#fce138;
   background-color: #024e76;
   padding-bottom: 20px;
-  margin: 0 auto 35 px auto;
+  margin: 0 auto 35px auto;
   width: 50%;
 
 }
@@ -211,7 +211,7 @@ hero-form p {
 /* what you do style */
 
 .step {
-  background: #fce138
+  background: #fce138;
 }
 
 .step {
@@ -235,7 +235,7 @@ hero-form p {
   flex: 2 70%;
   display:flex;
   flex-wrap: wrap;
-  align-items:center
+  align-items:center;
 
 }  
 
@@ -272,7 +272,7 @@ hero-form p {
   margin:0 auto;
   display: flex;
   flex-wrap: wrap;
-  justify-content: spaced-around;
+  justify-content: space-between;
 
 }
 
@@ -321,7 +321,7 @@ hero-form p {
 }
 
 .contact h2 {
-  color: #fce138
+  color: #fce138;
 
 }
 
@@ -344,7 +344,7 @@ hero-form p {
 }
 
 .contact-info div {
-  color: white;
+  color: #white;
   
 }
 
@@ -368,10 +368,10 @@ hero-form p {
   display: block;
   padding: 7px 15px;
   font-size: 16px;
-  color: #024e76
+  color: #024e76;
   width: 100%;
   margin-bottom: 15px;
-  margin-top: 5 px;
+  margin-top: 5px;
 
 }
 
@@ -410,7 +410,7 @@ hero-form p {
 
 }
 
-/* media query for smaller desktop screens @media screen and (max-width 980px)
+/* media query for smaller desktop screens @media screen and (max-width 980px)*/
 {
 header {
   padding-bottom: 0;
